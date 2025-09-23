@@ -1,0 +1,1 @@
+winget install --id Anki.Anki -e --accept-source-agreements --accept-package-agreements

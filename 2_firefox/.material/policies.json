@@ -8,9 +8,9 @@
         "installation_mode": "force_installed",
         "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/addon-607454-latest.xpi"
       },
-      "addon@unhook.app": {
+      "myallychou@gmail.com": {
         "installation_mode": "force_installed",
-        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/youtube-recommended-videos/addon-990313-latest.xpi"
+        "install_url":"https://addons.mozilla.org/firefox/downloads/latest/youtube-recommended-videos/" 
       }
     }
   }

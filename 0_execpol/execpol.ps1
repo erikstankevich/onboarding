@@ -1,0 +1,1 @@
+Set-ExectionPolicy -Bypass

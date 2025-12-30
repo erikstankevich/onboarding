@@ -1,1 +1,0 @@
-winget install --id Mozilla.Firefox.ru -e --accept-source-agreements --accept-package-agreements

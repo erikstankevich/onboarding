@@ -1,0 +1,1 @@
+mkdir ~\AppData\Local\nvim 
